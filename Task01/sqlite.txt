@@ -1,0 +1,10 @@
+SQLite version:
+3.53.4
+
+Useful SQLite commands:
+
+.help
+.mode
+.tables
+.schema
+.quit
